@@ -8347,7 +8347,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 995508315}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 424dc02ab065aa64eaa2c366cc4ac3a5, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -9339,7 +9339,7 @@ AudioSource:
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
-  Mute: 0
+  Mute: 1
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128
@@ -11837,7 +11837,7 @@ PrefabInstance:
     - target: {fileID: 4022808964314300850, guid: 7901218cf3961984d8390a80a181c0d8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.1875017
+      value: -2.55
       objectReference: {fileID: 0}
     - target: {fileID: 4022808964314300850, guid: 7901218cf3961984d8390a80a181c0d8,
         type: 3}
@@ -15837,7 +15837,7 @@ PrefabInstance:
     - target: {fileID: 4022808964314300850, guid: 7901218cf3961984d8390a80a181c0d8,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.8
+      value: 2.49
       objectReference: {fileID: 0}
     - target: {fileID: 4022808964314300850, guid: 7901218cf3961984d8390a80a181c0d8,
         type: 3}
